@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Agexua;
+- 👋 Hi, I’m @SecretGenius_ua;
 - 👀 I’m interested in programming on JS;
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on the development of web sites;
